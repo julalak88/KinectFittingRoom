@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EditorHotkey>
+  <hotkey>
+    <id>0</id>
+    <name>Switch Edit Mode</name>
+    <tooltip>Cycle Through Edit Modes</tooltip>
+    <keycode>103</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>1</id>
+    <name>Switch Transform Mode</name>
+    <tooltip>Cycle Through Transform Modes</tooltip>
+    <keycode>104</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>2</id>
+    <name>Toggle Orientation</name>
+    <tooltip>Switch Between Local &amp; World Orientation</tooltip>
+    <keycode>112</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>3</id>
+    <name>Clear Selected</name>
+    <tooltip>Clear All Selected</tooltip>
+    <keycode>27</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>4</id>
+    <name>Select All</name>
+    <tooltip>Select All Based On Edit Mode</tooltip>
+    <keycode>99</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>5</id>
+    <name>Deselect All</name>
+    <tooltip>Deselect All</tooltip>
+    <keycode>99</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>6</id>
+    <name>Invert Selected</name>
+    <tooltip>Select Inverse Of Currently Selected</tooltip>
+    <keycode>105</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>7</id>
+    <name>Delete Selected Tris</name>
+    <tooltip>Delete All Selected Triangles</tooltip>
+    <keycode>101</keycode>
+    <cmd>false</cmd>
+    <ctrl>true</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>8</id>
+    <name>Double Sided Tris</name>
+    <tooltip>Make Selected Triangles Double Sided</tooltip>
+    <keycode>98</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>9</id>
+    <name>Reverse Selected Tris</name>
+    <tooltip>Rotate Selected Triangles To Opposite Direction</tooltip>
+    <keycode>114</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>10</id>
+    <name>Smooth Selected Tris</name>
+    <tooltip>Smooth All Selected Triangles</tooltip>
+    <keycode>116</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>11</id>
+    <name>Facet Selected Tris</name>
+    <tooltip>Facet All Selected Triangles</tooltip>
+    <keycode>116</keycode>
+    <cmd>false</cmd>
+    <ctrl>true</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>12</id>
+    <name>Un-Weld All Vertices</name>
+    <tooltip>Un-Weld All Vertices In Mesh</tooltip>
+    <keycode>117</keycode>
+    <cmd>false</cmd>
+    <ctrl>true</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>13</id>
+    <name>Flip X Axis</name>
+    <tooltip>Flip Mesh On X Axis</tooltip>
+    <keycode>120</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>14</id>
+    <name>Flip Y Axis</name>
+    <tooltip>Flip Mesh On Y Axis</tooltip>
+    <keycode>121</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>15</id>
+    <name>Flip Z Axis</name>
+    <tooltip>Flip Mesh On Z Axis</tooltip>
+    <keycode>122</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>16</id>
+    <name>Optimize Mesh</name>
+    <tooltip>Optimize Mesh Using Tri Strips If Possible</tooltip>
+    <keycode>111</keycode>
+    <cmd>false</cmd>
+    <ctrl>true</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>17</id>
+    <name>Clear Handle Offset</name>
+    <tooltip>Clear Handle Offset</tooltip>
+    <keycode>104</keycode>
+    <cmd>false</cmd>
+    <ctrl>true</ctrl>
+    <alt>false</alt>
+    <shift>false</shift>
+  </hotkey>
+  <hotkey>
+    <id>18</id>
+    <name>Snap To Grid</name>
+    <tooltip>Toggle Snap To Grid On/Off</tooltip>
+    <keycode>103</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+  <hotkey>
+    <id>19</id>
+    <name>Update Pivot Point</name>
+    <tooltip>Update Pivot Point</tooltip>
+    <keycode>112</keycode>
+    <cmd>false</cmd>
+    <ctrl>false</ctrl>
+    <alt>false</alt>
+    <shift>true</shift>
+  </hotkey>
+</EditorHotkey>
